@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## I'm Phi Huong. I experienced Frontend Developer with over 3 years of expertise in developing responsive websites optimized for multiple platforms. Proficient in employing diverse technologies and frameworks to build and maintain websites.
+### I'm Phi Huong. I experienced Frontend Developer with over 3 years of expertise in developing responsive websites optimized for multiple platforms. Proficient in employing diverse technologies and frameworks to build and maintain websites.
 
-### 🛠 My knowledge
+## 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
