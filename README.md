@@ -2,7 +2,6 @@
 
 ## I'm Phi Huong. I experienced Frontend Developer with over 3 years of expertise in developing responsive websites optimized for multiple platforms. Proficient in employing diverse technologies and frameworks to build and maintain websites.
 
-
 ### 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -24,5 +23,3 @@
 
 <br/>
 <br/>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phihuongctu)](https://github.com/anuraghazra/github-readme-stats)
