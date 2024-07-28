@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋,
 
 ### I'm Phi Huong. I experienced Frontend Developer with over 3 years of expertise in developing responsive websites optimized for multiple platforms. Proficient in employing diverse technologies and frameworks to build and maintain websites.
 
