@@ -10,12 +10,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Shopify](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=shopify&logoColor=white)
-![Remix](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=remix&logoColor=white)
-![Medusa](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=medusa&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-green.svg?style=flat-square&logo=shopify&logoColor=white)
+![Remix](https://img.shields.io/badge/remix-black.svg?style=flat-square&logo=remix&logoColor=white)
+![Medusa](https://img.shields.io/badge/medusa-black.svg?style=flat-square&logo=medusa&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Graphql](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=graphql&logoColor=white)
+![Graphql](https://img.shields.io/badge/graphql-pink.svg?style=flat-square&logo=graphql&logoColor=white)
 
 ## 📊 My Github Stats
 <p align="center">
