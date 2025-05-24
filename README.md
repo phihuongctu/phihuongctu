@@ -16,6 +16,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Graphql](https://img.shields.io/badge/graphql-pink.svg?style=flat-square&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-red.svg?style=flat-square&logo=firebase&logoColor=white)
 
 ## 📊 My Github Stats
 <p align="center">
